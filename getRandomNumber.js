@@ -1,3 +1,3 @@
-function getRandomElement(arr){
-    return arr[Math.floor(Math.random()*arr.length)]
+function getRandomElement(array){
+    return array[Math.floor(Math.random()*arr.length)]
 }
